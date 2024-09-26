@@ -57,4 +57,3 @@ Feel free to reach out through the contact form on the website, or connect with 
 
 ---
 
-This version is more aligned with the simplicity of using only HTML and CSS, focusing on basic features and future enhancements.
